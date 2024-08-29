@@ -1,8 +1,8 @@
 
 
 
+https://github.com/user-attachments/assets/5cb50eea-d816-4075-bdc9-c16eb424bf92
 
 
-https://github.com/user-attachments/assets/d0e6e6d2-95f7-4c54-8ea6-7841e0035066
 
 # guess-number
